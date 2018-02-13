@@ -45,21 +45,23 @@ _You **can** combine them_
 
 ### Images
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://guides.github.com/features/mastering-markdown/images/logo.png)
 Format: ![Alt Text](url)
 
 ### Links
 
 http://github.com - automatic![GitHub](http://github.com)
 
-Blockquotes
+
+### Blockquotes
 
 As Kanye West said:
 
 > We're living the future so
 > the present is our past.
 
-Inline code
+### Inline code
 
 I think you should use an
 `<addr>` element here instead.
+
